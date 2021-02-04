@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Fruits list:
 Banana
 Apple
@@ -7,3 +8,6 @@ Peach
 Guava
 Litchi
 
+=======
+booya
+>>>>>>> history
