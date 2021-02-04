@@ -4,4 +4,6 @@ Apple
 Pear
 Kiwi
 Peach
+Guava
+Litchi
 
