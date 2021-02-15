@@ -1,0 +1,500 @@
+  635  git push
+  636  git pull
+  637  ls -a
+  638  git log
+  639  git checkout 96fef43d9fda593dcd9af9931fa4331ef31554ac
+  640  ls -a
+  641  git checkout main
+  642  git log
+  643  git checkout fd870f60794a54bddf3859c3cfdd2b47903eff1b
+  644  ls -a
+  645  git checkout main
+  646  git revert fd870f60794a54bddf3859c3cfdd2b47903eff1b
+  647  git log
+  648  ls -a
+  649  git status
+  650  git log
+  651  git push
+  652  ls -a
+  653  git log
+  654  git checkout 705a94e21c5eaeeb097cec9f3de8efa7974747b4
+  655  ls -a
+  656  git checkout main
+  657  git log
+  658  git revert 705a94e21c5eaeeb097cec9f3de8efa7974747b4
+  659  git push
+  660  git log
+  661  ls -a
+  662  git revert 8161c8e2eb36a62cad1226c0d2e54a4f2c20723a
+  663  git push
+  664  git log
+  665  git revert 8161c8e2eb36a62cad1226c0d2e54a4f2c20723a
+  666  git revert 8161c8e2eb36a62cad1226c0d2e54a4f2c20723a
+  667  git branch
+  668  git revert 8161c8e2eb36a62cad1226c0d2e54a4f2c20723a
+  669  git log
+  670  ls -a
+  671  git status
+  672  cd
+  673  cd desktop
+  674  cd Level-0-Coding-Challenge
+  675  ls -a
+  676  git log
+  677  git revert e3cd3fcb197a9e049a98d044a90c375c3150f6b0
+  678  git push
+  679  git checkout 914ca26162d9ed3c90f23c8b2f4eb26721a4968a
+  680  ls -a
+  681  git checkout main
+  682  git checkout 66508c5c3186619b3af59bf0d43d64db8142421a
+  683  ls -a
+  684  get revert 66508c5c3186619b3af59bf0d43d64db8142421a
+  685  git checkout main
+  686  git revert 66508c5c3186619b3af59bf0d43d64db8142421a
+  687  git push
+  688  ls -a
+  689  git pull
+  690  git checkout 74e865686d2a3762ecec152b2c626032ed8d99a3
+  691  ls -a
+  692  git revert 74e865686d2a3762ecec152b2c626032ed8d99a3
+  693  git push
+  694  git status
+  695  git branch -a
+  696  git push origin HEAD: remotes/origin/main
+  697  git push origin HEAD:remotes/origin/main
+  698  git pull
+  699* git push origin H
+  700  git status
+  701  git checkout main
+  702  git pull
+  703  ls -a
+  704  cd
+  705  cd desktop
+  706  cd git-basic-exercises
+  707  ls -a
+  708  git log
+  709  git checkout 9dbe06b8f581b085ee9cd88a4c8e986f93792d4a
+  710  git status
+  711  ls -a
+  712  cat README.md
+  713  git checkout main
+  714  ls -a
+  715  clear
+  716  git log
+  717  git checkout a6c4b65386a690d4fb7c39349bc422b0e2481349
+  718  ls -a
+  719  cat README.md
+  720  git branch
+  721  git checkout history
+  722  ls -a
+  723  cat README.md
+  724  cd
+  725  cd desktop
+  726  cd thabo
+  727  ls -a
+  728  git checkout -b test/2
+  729  nano test-2.js
+  730  git add test-2.js
+  731  git commit -m "added test-2.js"
+  732  git push
+  733  git status
+  734  git checkout main
+  735  git branch
+  736  git checkout test/2
+  737  ls -a
+  738  cat test-2.js
+  739  git checkout main
+  740  git merge test/2
+  741  git push
+  742  git push
+  743  git push -u origin test/2
+  744  git checkout b694c35e227b116b21cd8541a4c1c3ca646690e3
+  745  ls -a
+  746  git branch
+  747  git checkout main
+  748  git revert b694c35e227b116b21cd8541a4c1c3ca646690e3
+  749  git push
+  750  git status
+  751  git merge test/2
+  752  git pull
+  753  git merge test/2
+  754  git pull
+  755  git checkout task/3
+  756  git checkout -b task/3
+  757  ls -a
+  758  nano task-3.js
+  759  git add task-3.js
+  760  git commit -m "added task-3.js"
+  761  git push -u origin test/3
+  762  git push -u origin tast/3
+  763  git push -u origin task/3
+  764  git checkout
+  765  git pull
+  766  git checkout main
+  767  git pull
+  768  git merge task/3
+  769  git push
+  770  ls -a
+  771  git status
+  772  git checkout 64a7305bfa038e4b21508052bb3f2cea0c472551
+  773  ls -a
+  774  git checkout main
+  775  git revert 64a7305bfa038e4b21508052bb3f2cea0c472551
+  776  git push
+  777  git branch
+  778  git pull
+  779  git checkout -b task/4
+  780  nano task4.js
+  781  git status
+  782  git add task4.js
+  783  git commit -m "added task4.js"
+  784  git push -u origin task/4
+  785  git checkout main
+  786  git status
+  787  git checkout task/4
+  788  git merge main
+  789  ls-a
+  790  ls -a
+  791  git checkout main
+  792  ls -a
+  793  nano README.md
+  794  git status
+  795  git add README.md
+  796  git commit -m "adjusted readme.js"
+  797  git push
+  798  git checkout task/4
+  799  git merge main
+  800  git push
+  801  git checkout main
+  802  git push
+  803  git merge task/4
+  804  git push
+  805  git checkout 3cb126a52467e80970cd9c1490ec240ac21a0fd7
+  806  ls -a
+  807  cat task4.js
+  808  git checkout main
+  809  ls -a
+  810  cat README.md
+  811  git checkout task/3
+  812  git checkout task/4
+  813  cat README.md
+  814  git checkout main
+  815  git revert 3cb126a52467e80970cd9c1490ec240ac21a0fd7
+  816  git status
+  817  git revert 3cb126a52467e80970cd9c1490ec240ac21a0fd7
+  818  git revert 3cb126a52467e80970cd9c1490ec240ac21a0fd7
+  819  git merge task/4
+  820  git commit -m "merge main to task4"
+  821  git revert 3cb126a52467e80970cd9c1490ec240ac21a0fd7
+  822  git pull
+  823  git revert 3cb126a52467e80970cd9c1490ec240ac21a0fd7
+  824  git branch
+  825  git pull
+  826  git checkout -b task/5
+  827  nano task5.js
+  828  ls -a
+  829  git status
+  830  git add task5.js
+  831  git commit -m "task5.js"
+  832  git push -u origin task/5
+  833  git merge task/5 -m "merge task5 to main"
+  834  git checkout main
+  835  git merge task/5 -m "merge task5 to main"
+  836  git push
+  837  git pull
+  838  git push
+  839  ls -a
+  840  git revert ad21094f2f832281d28fb1256cc9eb07af79835b
+  841  git push
+  842  ls -a
+  843  ls -a
+  844  cd
+  845  cd desktop
+  846  cd git-basic-exercises
+  847  ls -a
+  848  git checkout main
+  849  git pull
+  850  git revert 9dbe06b8f581b085ee9cd88a4c8e986f93792d4a
+  851  clear
+  852  git log
+  853  git log 466ef56
+  854  git log
+  855  git checkout 466ef56
+  856  ls -a
+  857  git log
+  858  git checkout main
+  859  git log
+  860* 
+  861  clear
+  862  git log
+  863  git log a6c4b65
+  864  clear
+  865  git log
+  866  git checkout a6c4b65
+  867  cat README.md
+  868  git checkout
+  869  git checkout main
+  870  clear
+  871  git log
+  872  git revert 9dbe06b8f581b085ee9cd88a4c8e986f93792d4a -m 2
+  873  git push
+  874  git status
+  875  git log
+  876  git pull
+  877  git log
+  878  git status
+  879  git branch
+  880  git merge history
+  881  git branch
+  882  git merge milkshake-flavours
+  883  git checkout main
+  884  git pull
+  885  git branch
+  886  git merge milkshake-flavours
+  887  git
+  888  git pull
+  889  ls -a
+  890  git branch
+  891  git merge milkshake-flavours
+  892  git pull origin main
+  893  git checkout main
+  894  git merge milkshake-flavours
+  895  git checkout milkshake-flavours
+  896  ls -a
+  897  nano milkshakes.md
+  898  git status
+  899  git add milkshakes.md
+  900  git commit -m "modified milkshakes.md"
+  901  git push -u origin milkshake-flavours
+  902  git push
+  903  git push -u origin milkshake-flavours
+  904  git status
+  905  git checkout main
+  906  git pull
+  907  git branch
+  908  git merge milkshake-flavours
+  909  ls -a
+  910  git status
+  911  git add milkshakes.md
+  912  git status
+  913  git commit -m "merge milkshakes"
+  914  git branch
+  915  git push
+  916  ls -a
+  917  git log
+  918  git reset HEAD~1
+  919  git push
+  920  git log
+  921  git pull
+  922  git status
+  923  git reset HEAD~1
+  924  git reset HEAD~1
+  925  git status
+  926  git log
+  927  git push
+  928  git status
+  929  git checkout milkshake-flavours
+  930  git branch
+  931  git checkout milkshake-flavours
+  932  git  status
+  933  git merge --abort
+  934  git push
+  935  git pull
+  936  git status
+  937  ls -a
+  938  cat milkshakes.md
+  939  $ git
+  940  git merge --abort
+  941  git staus
+  942  git status
+  943  git rm milkshakes.md
+  944  git rm milkshakes.md
+  945  git stau=tus
+  946  git status
+  947  git push
+  948  git branch
+  949  git checkout milkshake-flavours
+  950  ls -a
+  951  cat milkshakes.md
+  952  git status
+  953  git checkout main
+  954  git log
+  955  git pull
+  956  git status
+  957  git log
+  958  ls -a
+  959  git checkout main
+  960  git log
+  961  git status
+  962  git pull
+  963  git log
+  964  git reset HEAD~1
+  965  git log
+  966  git status
+  967  git push
+  968  git status
+  969  git log
+  970  git reset HEAD~1
+  971  git status
+  972  git push
+  973  git reset HEAD~1
+  974  git status
+  975  git log
+  976  git push -u origin main
+  977  git pull
+  978  git reset --hard HEAD~2
+  979  git log
+  980  git push
+  981  git pull
+  982  git push
+  983  git log--oneline
+  984  git log --oneline
+  985  git reset --hard 42aa526
+  986  git log --oneline
+  987  git reset --hard HEAD~5
+  988  git log --oneline
+  989  git status
+  990  git push
+  991  git checkout 9dbe06b
+  992  ls -a
+  993  cat README.md
+  994  git log
+  995  git checkout a6c4b65386a690d4fb7c39349bc422b0e2481349
+  996  ls-a
+  997  ls -a
+  998  cat README.ms
+  999  cat README.md
+ 1000  git status
+ 1001  git push
+ 1002  git push origin main
+ 1003  git checkout main
+ 1004  git status
+ 1005  git push
+ 1006  git push --help
+ 1007  git push origin main
+ 1008  git pull
+ 1009  git status
+ 1010  git log --oneline
+ 1011  git reset --hard HEAD~1
+ 1012  git log --oneline
+ 1013  git reset --hard 7df9ffc
+ 1014  git push --force origin main
+ 1015  git log
+ 1016  git log --oneline
+ 1017  $ git reset --hard 7df9ffc
+ 1018  git reset --hard HEAD~1
+ 1019  git log --oneline
+ 1020  git push --force origin main
+ 1021  git log
+ 1022  git log --oneline
+ 1023  git reset --hard HEAD~1
+ 1024  git log --oneline
+ 1025  git push --force origin main
+ 1026  git log
+ 1027  git status
+ 1028  git log --oneline
+ 1029  git reset --hard HEAD~1
+ 1030  git push --force origin main
+ 1031  git log --oneline
+ 1032  git branch
+ 1033  git checkout milkshake-flavours
+ 1034  git log --oneline
+ 1035  git reset --hard HEAD~1
+ 1036  git log --oneline
+ 1037  git push --force origin milkshake-flavours
+ 1038  git checkout history
+ 1039  git log --oneline
+ 1040  git reset --hard HEAD~1
+ 1041  git push --force origin history
+ 1042  git checkout main
+ 1043  git pull
+ 1044  git log --oneline
+ 1045* 
+ 1046  git checkout 9dbe06b8f581b085ee9cd88a4c8e986f93792d4a
+ 1047  ls -a
+ 1048  cat README.md
+ 1049  git checkout main
+ 1050  git log
+ 1051  git checkout a6c4b65
+ 1052  ls -a
+ 1053  cat REAME.md
+ 1054  cat README.md
+ 1055  git checkout main
+ 1056  git log
+ 1057  git revert 9dbe06b8f581b085ee9cd88a4c8e986f93792d4a -m 2
+ 1058  git push
+ 1059  git checkout main
+ 1060  git pull
+ 1061  ls -a
+ 1062  git branch
+ 1063  git pull
+ 1064  git merge milkshake-flavours
+ 1065  git log --oneline
+ 1066  git log
+ 1067  git branch
+ 1068  git checkout milkshake-flavours
+ 1069  git log
+ 1070  ls -a
+ 1071  git status
+ 1072  git push -u origin milkshake-flavours
+ 1073  ls -a
+ 1074  git status
+ 1075  git checkout main
+ 1076  git log
+ 1077  git checkout a6c4b65386a690d4fb7c39349bc422b0e2481349
+ 1078  ls -a
+ 1079  cat README.md
+ 1080  git log --oneline
+ 1081  git checkout main
+ 1082  git log --oneline
+ 1083  git reset --hard HEAD~1
+ 1084  git push --force origin main
+ 1085  git reset --hard HEAD~1
+ 1086  git push --force origin main
+ 1087  git reset --hard HEAD~1
+ 1088  git push --force origin main
+ 1089  git log
+ 1090  git checkout history
+ 1091  git log
+ 1092  git checkout milkshake-flavours
+ 1093  git log
+ 1094  git checkout main 
+ 1095  git pull
+ 1096  git log
+ 1097  git reset --hard HEAD~1
+ 1098  git push --force origin main
+ 1099  git log --oneline
+ 1100  git status
+ 1101  git checkout milkshake-flavours
+ 1102  git log
+ 1103  ls -a
+ 1104  git checkout main
+ 1105  git log
+ 1106  git reset --hard HEAD~1
+ 1107  git push --force origin main
+ 1108  git log --oneline
+ 1109  git log
+ 1110  git checkout milkshake-flavours
+ 1111  git log
+ 1112  git reset --hard HEAD~1
+ 1113  git push --force origin milkshake-flavours
+ 1114  git log
+ 1115  git checkout main
+ 1116  git pull
+ 1117  git checkout history
+ 1118  git log
+ 1119  git reset --hard HEAD~1
+ 1120  git push --force origin history
+ 1121  git log
+ 1122  git reset --hard HEAD~1
+ 1123  git push --force origin history
+ 1124  git log
+ 1125  git checkout main
+ 1126  git checkout milkshake-flavours
+ 1127  ls -a
+ 1128  git log
+ 1129  git checkout main
+ 1130  git checkout history
+ 1131  ls -a
+ 1132  git log
+ 1133  git branch
+ 1134  history > history.txt
